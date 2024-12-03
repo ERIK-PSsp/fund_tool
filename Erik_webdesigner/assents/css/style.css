@@ -15,7 +15,7 @@ body {
 }
 header {
     background-color: #a1c1be;
-    height: 250px;
+    height: 150px;
 }
 h1 {
     color: #ff0606;
@@ -32,8 +32,8 @@ main {
     background-color: #fcfcd7;
 }
 img {
-    width: 100%;
-    height: 100%;
+    width: 25%;
+    height: 25%;
 }
 p {
     color: #000000;
